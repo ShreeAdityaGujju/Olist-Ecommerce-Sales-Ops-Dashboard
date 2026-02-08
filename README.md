@@ -52,6 +52,7 @@ The dashboard includes:
 - Delivery Time vs Ratings scatterplot
 - Order Fulfillment Funnel (created vs delivered)
 - Top Categories by Revenue bar chart
+**Tableau Public:** https://public.tableau.com/views/E-CommerceSalesOperationsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Dataset taken from Kaggle
 
@@ -64,7 +65,6 @@ The dashboard includes:
 - **Analytics Engineering:** reusable semantic views for BI
 - **BI / Tableau:** KPI design, dashboard layout, operational + revenue storytelling
 
-**Tableau Public:** https://public.tableau.com/views/E-CommerceSalesOperationsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
 **Tech:** MySQL (data modeling + SQL views), Tableau (dashboarding), CSV ingestion (LOAD DATA LOCAL INFILE)
 
