@@ -74,9 +74,6 @@ The dashboard includes:
 - Build **cohort retention** + **RFM segmentation** to quantify repeat behavior over time
 - Add **seller/state** drilldowns to identify late-delivery root causes
 - Create a **late delivery prediction** model (features: route, seller, category, distance proxies)
-- Implement **incremental loads** (only new orders) + scheduled refresh
-- Add **data quality checks** (timestamp validity, missing keys, duplicate orders/reviews)
-- Migrate transformations to **dbt** for versioned, testable analytics pipelines
 
 ---
 
