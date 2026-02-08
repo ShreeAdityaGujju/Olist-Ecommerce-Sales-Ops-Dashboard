@@ -1,7 +1,5 @@
 # Olist E-Commerce Sales & Operations Performance Dashboard (MySQL + Tableau)
 
-**Tableau Public:** https://public.tableau.com/views/E-CommerceSalesOperationsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
-**Tech:** MySQL (data modeling + SQL views), Tableau (dashboarding), CSV ingestion (LOAD DATA LOCAL INFILE)
 
 ---
 
@@ -65,6 +63,10 @@ The dashboard includes:
 - **ETL:** staging → typed tables, null handling, type casting, timestamp parsing
 - **Analytics Engineering:** reusable semantic views for BI
 - **BI / Tableau:** KPI design, dashboard layout, operational + revenue storytelling
+
+**Tableau Public:** https://public.tableau.com/views/E-CommerceSalesOperationsPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  
+**Tech:** MySQL (data modeling + SQL views), Tableau (dashboarding), CSV ingestion (LOAD DATA LOCAL INFILE)
 
 ---
 
